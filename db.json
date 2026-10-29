@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "fullName": "John Doe",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop",
+      "createdAt": "2026-02-17T10:00:00Z"
+    },
+    {
+      "id": "v6DfV0G8oXo",
+      "username": "munu",
+      "email": "Munavar@gmail.com",
+      "password": "123456",
+      "fullName": "munavar",
+      "avatar": "",
+      "createdAt": "2026-10-13T20:47:00.711Z"
+    },
+    {
+      "username": "hisana",
+      "email": "hisana@gmail.com",
+      "password": "hisana123",
+      "fullName": "hisana",
+      "avatar": "",
+      "createdAt": "2026-10-19T06:47:34.411Z",
+      "id": "1O_84r6f5do"
+    },
+    {
+      "username": "dcfrr",
+      "email": "raiba@gmail.com",
+      "password": "raiba123",
+      "fullName": "hisajbxdk",
+      "avatar": "",
+      "createdAt": "2026-10-19T08:13:38.627Z",
+      "id": "wDoOCN7ijmY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
